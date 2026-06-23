@@ -2,26 +2,26 @@
   "business": {
     "name": "NTX HANDYMAN & CONTRACTORS LLC",
     "shortName": "NTX Handyman",
-    "tagline": "Expert Repairs, Renovations & Peace of Mind in Dallas",
+    "tagline": "Your Trusted Dallas Handyman for Quality Repairs & Renovations",
     "niche": "Handyman",
     "phone": "(214) 284-3115",
     "address": "2934 N Bend Dr, Dallas, TX 75229",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 2:00 PM, Sun Closed",
-    "ctaLabel": "Get Your Free Estimate",
+    "hours": "Mon-Fri 7:00 AM - 7:00 PM, Sat 8:00 AM - 4:00 PM, Sun Closed",
+    "ctaLabel": "Book Your Service",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "NTX HANDYMAN & CONTRACTORS LLC | Reliable Handyman in Dallas, TX",
-    "description": "Trusted handyman services in Dallas, TX. From minor repairs to major renovations, NTX Handyman & Contractors LLC delivers quality workmanship and exceptional customer service. Call (214) 284-3115 today!"
+    "title": "NTX Handyman & Contractors | Professional Handyman Services in Dallas, TX",
+    "description": "Top-rated handyman in Dallas, TX. Expert repairs, installations, and renovations. Free estimates, licensed & insured. Call (214) 284-3115."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Handyman Since 2010",
-      "headline": "Your Home, Our Expertise: Repairs, Renovations & More",
-      "subheadline": "Reliable, professional handyman services for Dallas homeowners – from fixing leaky faucets to full room remodels.",
+      "eyebrow": "Dallas's Premier Handyman Service",
+      "headline": "Expert Handyman Solutions for Your Home & Business",
+      "subheadline": "From minor repairs to major renovations, our skilled team delivers quality workmanship with a smile.",
       "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "View Our Services"
+      "secondaryCta": "See Our Work"
     },
     "stats": [
       {
@@ -29,287 +29,294 @@
         "label": "Projects Completed"
       },
       {
-        "value": "5.0",
-        "label": "Average Rating"
+        "value": "98%",
+        "label": "Satisfaction Rate"
       },
       {
         "value": "15+",
-        "label": "Years of Experience"
+        "label": "Years Experience"
       },
       {
-        "value": "98%",
-        "label": "Customer Satisfaction"
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality Workmanship",
-        "title": "Meticulous Attention to Detail",
-        "body": "Every project, big or small, receives the same level of care. We use premium materials and proven techniques to ensure lasting results.",
+        "eyebrow": "Reliable & Affordable",
+        "title": "Full-Service Handyman for Every Need",
+        "body": "Whether it's fixing a leaky faucet, assembling furniture, or remodeling a kitchen, we handle it all with precision and care. Our team arrives on time, works efficiently, and leaves your space spotless.",
         "bullets": [
-          "Licensed and insured for your peace of mind",
-          "Clean, organized job sites every time",
-          "Satisfaction guaranteed on all work"
+          "Licensed, bonded, and insured for your peace of mind",
+          "Transparent pricing with no hidden fees",
+          "Same-day service available for urgent repairs",
+          "100% satisfaction guaranteed on every job"
         ],
         "reverse": false,
         "cardLabel": "Our Promise",
-        "cardTitle": "Done Right the First Time",
-        "cardBody": "We take pride in our work and stand behind it. No shortcuts, no callbacks – just quality you can count on."
+        "cardTitle": "Quality You Can Trust",
+        "cardBody": "We use only top-grade materials and proven techniques to ensure lasting results."
       },
       {
-        "eyebrow": "Transparent Process",
-        "title": "Hassle-Free Experience from Start to Finish",
-        "body": "We communicate clearly, provide upfront pricing, and work on your schedule. No surprises, just honest service.",
+        "eyebrow": "Custom Solutions",
+        "title": "Tailored to Your Home & Budget",
+        "body": "No two projects are alike. We listen to your needs, offer expert advice, and create a plan that fits your timeline and budget. From small touch-ups to full renovations, we bring your vision to life.",
         "bullets": [
-          "Free detailed estimates with no obligation",
-          "Real-time project updates via text or call",
-          "Flexible scheduling to fit your busy life"
+          "Free on-site estimates with detailed proposals",
+          "Flexible scheduling to accommodate your lifestyle",
+          "Eco-friendly options and sustainable materials available",
+          "Post-service follow-up to ensure your satisfaction"
         ],
         "reverse": true,
-        "cardLabel": "Customer Focus",
-        "cardTitle": "We Listen, We Deliver",
-        "cardBody": "Your vision guides our work. We collaborate with you to bring your ideas to life while offering expert advice along the way."
+        "cardLabel": "Our Process",
+        "cardTitle": "Stress-Free Experience",
+        "cardBody": "We handle all the details so you can relax and enjoy your improved space."
       }
     ],
     "whyTitle": "Why Dallas Homeowners Choose NTX Handyman",
     "whyChooseUs": [
       {
         "title": "Local Expertise",
-        "description": "Deep knowledge of Dallas homes and building codes ensures your project is compliant and well-suited to the local climate."
+        "description": "Proudly serving Dallas for over a decade. We know the area's homes and building codes inside out."
       },
       {
-        "title": "Reliable & Punctual",
-        "description": "We arrive on time and complete projects within the agreed timeframe, respecting your schedule and home."
+        "title": "Skilled Craftsmen",
+        "description": "Our team consists of experienced professionals who take pride in their work."
       },
       {
-        "title": "Full-Service Convenience",
-        "description": "From plumbing to drywall to assembly, one call handles it all – no need to juggle multiple contractors."
+        "title": "Timely & Respectful",
+        "description": "We respect your time and property. Clean, punctual, and courteous service every time."
       },
       {
-        "title": "Fair & Transparent Pricing",
-        "description": "Competitive rates with no hidden fees. We provide clear quotes and stick to them, so you know exactly what to expect."
+        "title": "Affordable Excellence",
+        "description": "Competitive rates without compromising quality. We work with your budget to deliver outstanding value."
       }
     ],
     "testimonials": [
       {
-        "quote": "NTX Handyman transformed our outdated kitchen into a beautiful, functional space. The team was professional, clean, and completed the work ahead of schedule.",
-        "author": "Sarah M.",
+        "quote": "NTX Handyman transformed our outdated bathroom into a modern oasis. The team was professional, communicative, and finished ahead of schedule. Highly recommend!",
+        "author": "Jennifer L.",
         "role": "Lakewood Homeowner"
       },
       {
-        "quote": "I've used them for multiple projects – from fixing a leaking pipe to building a deck. Always top-notch quality and fair pricing. Highly recommend!",
-        "author": "James T.",
-        "role": "Preston Hollow Resident"
+        "quote": "Called for a emergency pipe repair on a Sunday. They arrived within the hour and fixed it perfectly. Fair price and excellent service. Will use again.",
+        "author": "Mark T.",
+        "role": "Uptown Resident"
       },
       {
-        "quote": "Finally, a handyman who actually shows up when promised and does the job right. NTX exceeded my expectations on every level.",
-        "author": "Maria L.",
-        "role": "Bishop Arts District Homeowner"
+        "quote": "We've used NTX for multiple projects: fence repair, drywall, and painting. Consistently great results and friendly crew. They're our go-to handyman.",
+        "author": "Rachel S.",
+        "role": "Oak Lawn Homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Started?",
-      "subheadline": "Contact us today for a free, no-obligation estimate. Your home deserves the best.",
+      "headline": "Ready to Start Your Project?",
+      "subheadline": "Contact us today for a free, no-obligation estimate.",
       "primaryCta": "Call (214) 284-3115",
-      "secondaryCta": "Request Estimate Online"
+      "secondaryCta": "Request Online Estimate"
     }
   },
   "servicesPage": {
-    "intro": "From quick fixes to major renovations, our comprehensive handyman services cover every corner of your home. We bring skill, reliability, and a customer-first approach to every job in Dallas."
+    "intro": "From small fixes to big transformations, NTX Handyman offers a comprehensive range of services to keep your home or business in top shape. Every job is backed by our commitment to quality, affordability, and customer satisfaction."
   },
   "services": [
     {
       "icon": "01",
       "title": "General Repairs & Maintenance",
-      "shortDescription": "Expert fixes for everyday wear and tear – from squeaky doors to broken tiles.",
-      "longDescription": "Keep your home in top shape with our thorough repair services. We handle everything from patching drywall and fixing leaky faucets to repairing decks and fences. Our team uses quality materials and proven methods to ensure durable, seamless repairs that blend with your existing surfaces.",
+      "shortDescription": "Fix leaky faucets, squeaky doors, cracked tiles, and more. We handle all those little things that add up.",
+      "longDescription": "Our general repair service covers a wide array of household issues. Whether it's a running toilet, a broken light switch, or a hole in the wall, we diagnose the problem and provide a lasting fix. We use high-quality parts and materials to ensure durability. Regular maintenance packages are also available to keep your home in peak condition year-round.",
       "benefits": [
-        "Extends the life of your home's features",
-        "Prevents small issues from becoming costly problems",
-        "Enhances safety and comfort for your family"
+        "Extend the life of your home's fixtures and systems",
+        "Prevent minor issues from becoming costly repairs",
+        "Enjoy a safer, more comfortable living environment",
+        "Save time and hassle with one call for all repairs"
       ],
       "process": [
         {
           "title": "Inspection & Diagnosis",
-          "description": "We assess the issue, identify root causes, and explain your options clearly."
+          "description": "We thoroughly assess the issue to identify the root cause."
         },
         {
-          "title": "Transparent Quote",
-          "description": "You receive a detailed estimate with no hidden fees before any work begins."
+          "title": "Repair with Quality Parts",
+          "description": "We use reliable materials and proven techniques to fix the problem."
         },
         {
-          "title": "Professional Execution",
-          "description": "Our skilled technicians complete the repair efficiently, leaving your space clean and restored."
+          "title": "Cleanup & Final Check",
+          "description": "We clean the work area and test everything to ensure it's working perfectly."
         }
       ],
       "faqs": [
         {
-          "question": "How quickly can you respond to a repair request?",
-          "answer": "We typically schedule within 24-48 hours. For urgent issues, we offer priority service to address them promptly."
+          "question": "Do you charge for estimates?",
+          "answer": "No, all estimates are free and come with a detailed breakdown of costs."
         },
         {
-          "question": "Do you provide warranties on repairs?",
-          "answer": "Yes, we stand behind our work with a satisfaction guarantee. If a repair doesn't meet your expectations, we'll make it right."
+          "question": "Can you handle emergency repairs?",
+          "answer": "Yes, we offer same-day service for urgent issues. Call us anytime."
         }
       ],
       "slug": "general-repairs-maintenance"
     },
     {
       "icon": "02",
-      "title": "Interior Painting & Drywall",
-      "shortDescription": "Transform your rooms with flawless paint finishes and smooth drywall installations.",
-      "longDescription": "Give your interiors a fresh look with our professional painting and drywall services. We prep surfaces meticulously, repair any imperfections, and apply premium paints for a beautiful, long-lasting finish. Whether it's a single accent wall or an entire home, our team delivers crisp lines and even coverage.",
+      "title": "Interior & Exterior Painting",
+      "shortDescription": "Give your walls, trim, and siding a fresh, professional look with our precision painting services.",
+      "longDescription": "Transform any room or the entire exterior of your home with our expert painting services. We prep surfaces meticulously, use premium paints, and apply even coats for a flawless finish. Our team handles color consultation, furniture moving, and post-job cleanup. Whether it's accent walls or full-house painting, we deliver stunning results that last.",
       "benefits": [
-        "Increases home value and curb appeal",
-        "Creates a clean, updated atmosphere",
-        "Protects walls from moisture and wear"
+        "Boost your home's curb appeal and resale value",
+        "Protect surfaces from weather and wear",
+        "Achieve a smooth, streak-free finish every time",
+        "Minimize mess and disruption with our careful process"
       ],
       "process": [
         {
           "title": "Surface Preparation",
-          "description": "We patch holes, sand rough areas, and prime surfaces to ensure paint adheres perfectly."
+          "description": "We clean, sand, and prime surfaces to ensure optimal paint adhesion."
         },
         {
-          "title": "Color Consultation",
-          "description": "Our team helps you choose the right sheen and color to match your style and lighting."
+          "title": "Expert Application",
+          "description": "We use brushes, rollers, and sprayers for a consistent, professional coat."
         },
         {
-          "title": "Precision Painting",
-          "description": "Using professional tools and techniques, we apply paint evenly with clean edges and no drips."
+          "title": "Final Inspection & Touch-Up",
+          "description": "We inspect every inch and touch up any imperfections."
         }
       ],
       "faqs": [
         {
           "question": "What type of paint do you use?",
-          "answer": "We use high-quality, low-VOC paints from trusted brands like Sherwin-Williams and Benjamin Moore for a durable, safe finish."
+          "answer": "We use high-quality, low-VOC paints from trusted brands like Sherwin-Williams and Benjamin Moore."
         },
         {
-          "question": "Do you move furniture and protect floors?",
-          "answer": "Absolutely. We cover all furniture and floors with drop cloths and plastic, and we move items as needed to ensure full coverage."
+          "question": "How long does a typical room take?",
+          "answer": "Most rooms can be completed in 1-2 days, depending on size and condition."
         }
       ],
-      "slug": "interior-painting-drywall"
+      "slug": "interior-exterior-painting"
     },
     {
       "icon": "03",
-      "title": "Kitchen & Bath Remodeling",
-      "shortDescription": "Full or partial remodels that blend functionality with modern style.",
-      "longDescription": "Upgrade your kitchen or bathroom with our comprehensive remodeling services. From cabinet installation and countertop replacement to tile backsplashes and fixture upgrades, we manage every detail. Our team coordinates with suppliers to bring your vision to life while respecting your budget and timeline.",
+      "title": "Carpentry & Woodwork",
+      "shortDescription": "Custom shelves, trim, doors, and furniture assembly. Precision carpentry for your home or office.",
+      "longDescription": "From building custom bookshelves to installing crown molding, our carpentry services add beauty and functionality to any space. We work with a variety of woods and finishes to match your style. Our team also offers furniture assembly, deck repairs, and custom cabinetry. Every cut is measured twice and crafted with care.",
       "benefits": [
-        "Boosts home resale value significantly",
-        "Improves daily functionality and storage",
-        "Modernizes outdated spaces for comfort and efficiency"
+        "Maximize storage and space utilization",
+        "Add architectural interest and value to your property",
+        "Get furniture that fits perfectly in your space",
+        "Enjoy durable, handcrafted pieces built to last"
       ],
       "process": [
         {
-          "title": "Design & Planning",
-          "description": "We collaborate with you to create a layout that maximizes space and reflects your taste."
+          "title": "Design & Material Selection",
+          "description": "We discuss your vision and recommend the best wood and design."
         },
         {
-          "title": "Material Selection",
-          "description": "We guide you through choosing cabinets, countertops, fixtures, and finishes that fit your style and budget."
+          "title": "Precision Cutting & Assembly",
+          "description": "Our carpenters build each piece with exact measurements and joinery."
         },
         {
-          "title": "Construction & Installation",
-          "description": "Our skilled crew handles demolition, rough-in, and finishing with minimal disruption to your daily life."
+          "title": "Installation & Finishing",
+          "description": "We install securely and apply stain, paint, or sealant as needed."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a typical kitchen remodel take?",
-          "answer": "Most kitchen remodels take 2-4 weeks depending on scope. We provide a detailed timeline upfront."
+          "question": "Can you match existing trim or molding?",
+          "answer": "Absolutely. We can replicate profiles and stain colors to blend seamlessly."
         },
         {
-          "question": "Can you work with my existing cabinets?",
-          "answer": "Yes, we offer cabinet refacing and painting as a cost-effective alternative to full replacement."
+          "question": "Do you build custom cabinets?",
+          "answer": "Yes, we design and build custom cabinets for kitchens, bathrooms, and more."
         }
       ],
-      "slug": "kitchen-bath-remodeling"
+      "slug": "carpentry-woodwork"
     },
     {
       "icon": "04",
-      "title": "Deck & Fence Construction",
-      "shortDescription": "Beautiful, durable outdoor structures built to withstand Texas weather.",
-      "longDescription": "Create your perfect outdoor living space with custom decks and fences. We design and build using pressure-treated lumber, composite materials, or cedar – tailored to your property and preferences. Our structures are built to last, with proper footings, drainage, and fasteners that resist rust and rot.",
+      "title": "Plumbing & Electrical",
+      "shortDescription": "Licensed professionals for faucet repairs, toilet installations, outlet upgrades, and more.",
+      "longDescription": "Our licensed plumbers and electricians handle a wide range of residential and commercial tasks. From fixing a dripping faucet to installing new light fixtures, we ensure work is done safely and up to code. We also offer water heater maintenance, garbage disposal replacement, and electrical panel upgrades. Safety and reliability are our top priorities.",
       "benefits": [
-        "Expands your living and entertaining area",
-        "Adds privacy and security to your yard",
-        "Increases property value and curb appeal"
+        "Peace of mind with licensed, insured technicians",
+        "Compliance with local building codes and regulations",
+        "Energy-efficient solutions to lower utility bills",
+        "Fast, reliable service for urgent plumbing or electrical issues"
       ],
       "process": [
         {
-          "title": "Site Evaluation",
-          "description": "We assess your yard's layout, soil conditions, and local codes to design a compliant structure."
+          "title": "Safety Assessment",
+          "description": "We inspect the system and identify any hazards or code violations."
         },
         {
-          "title": "Custom Design",
-          "description": "We create a plan that matches your style – from classic wood to modern composite with built-in seating."
+          "title": "Professional Repair/Installation",
+          "description": "We perform the work using proper tools and techniques."
         },
         {
-          "title": "Professional Build",
-          "description": "Our team constructs your deck or fence with precision, using quality materials and proper techniques for longevity."
+          "title": "Testing & Verification",
+          "description": "We test all connections and ensure everything operates correctly."
         }
       ],
       "faqs": [
         {
-          "question": "What materials do you recommend for Dallas weather?",
-          "answer": "For decks, we recommend composite or pressure-treated pine with stainless steel fasteners to withstand humidity and heat. For fences, cedar or vinyl are excellent choices."
+          "question": "Are your plumbers and electricians licensed?",
+          "answer": "Yes, all our technicians are fully licensed and insured for your protection."
         },
         {
-          "question": "Do you handle permits?",
-          "answer": "Yes, we obtain all necessary permits and ensure your deck or fence meets local building codes."
+          "question": "Can you handle major electrical rewiring?",
+          "answer": "We handle a wide range of electrical work, including rewiring and panel upgrades."
         }
       ],
-      "slug": "deck-fence-construction"
+      "slug": "plumbing-electrical"
     }
   ],
   "about": {
-    "headline": "Your Local Handyman Experts in Dallas",
-    "mission": "To provide Dallas homeowners with reliable, high-quality handyman services that make homeownership easier and more enjoyable.",
+    "headline": "Dedicated to Quality, Committed to Dallas",
+    "mission": "To provide exceptional handyman services that improve the comfort, safety, and beauty of our clients' homes and businesses, while building lasting relationships based on trust and integrity.",
     "story": [
-      "NTX Handyman & Contractors LLC was founded with a simple mission: deliver honest, skilled craftsmanship to our neighbors in Dallas. What started as a one-man operation fixing small repairs has grown into a trusted team serving hundreds of homes across the metroplex. Our founder, a licensed contractor with over 15 years of experience, saw a need for a handyman service that combined professional standards with genuine care for customers.",
-      "Today, we continue that tradition. Every project – from a simple faucet repair to a full kitchen remodel – receives the same dedication to quality and transparency. We invest in our team's training, use top-tier materials, and communicate openly with clients. Our reputation is built on referrals and repeat business, and we're proud to be a go-to resource for Dallas homeowners."
+      "NTX Handyman & Contractors LLC was founded with a simple mission: deliver high-quality home repair and renovation services with honesty and professionalism. What started as a one-man operation has grown into a trusted team of skilled craftsmen serving the Dallas area. Our founder, a lifelong Dallas resident, saw a need for reliable handymen who show up on time, communicate clearly, and take pride in their work.",
+      "Over the years, we have completed thousands of projects, from minor fixes to full-scale renovations. Our reputation is built on word-of-mouth referrals and a commitment to exceeding expectations. We treat every home like our own and every client like family. Today, NTX Handyman is a go-to resource for homeowners and businesses who value quality, reliability, and fair pricing."
     ],
     "highlight": {
-      "stat": "500+",
-      "label": "Homes Served in Dallas"
+      "stat": "15+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We do what we say, use materials as quoted, and never cut corners."
+        "description": "We do what we say, use materials we'd use in our own homes, and provide honest recommendations."
       },
       {
         "title": "Craftsmanship",
-        "description": "Our work meets the highest standards of quality and durability."
+        "description": "We take pride in our work, paying attention to every detail to ensure lasting results."
       },
       {
         "title": "Respect",
-        "description": "We treat your home and time with the utmost respect, leaving it cleaner than we found it."
+        "description": "We respect your time, property, and privacy, leaving your space clean and tidy."
       },
       {
         "title": "Community",
-        "description": "As a local business, we are committed to serving and supporting the Dallas community."
+        "description": "We support local businesses and give back to the Dallas community that has supported us."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Ready to start your project? We're here to help. Call or fill out the form for a free estimate.",
+    "headline": "Get in Touch with NTX Handyman",
+    "subheadline": "Ready to get started? Fill out the form or call us for a free estimate.",
     "primaryCta": "Call (214) 284-3115",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Addison",
-      "Carrollton",
-      "Farmers Branch",
-      "Irving",
+      "Highland Park",
       "University Park",
-      "Highland Park"
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Preston Hollow",
+      "Park Cities"
     ]
   },
   "social_proof": {
-    "rating": 5.0,
+    "rating": "",
     "reviews": null
   },
   "meta": {
